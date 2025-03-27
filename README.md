@@ -1,2 +1,2 @@
-# Classifica-o-de-Pulsares---Random-Forest
+# Classificçao de Pulsares : Random Forest Classifier
 Trabalho prático II - Sistemas de Apoio à Decisão
