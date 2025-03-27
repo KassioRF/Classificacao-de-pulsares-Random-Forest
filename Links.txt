@@ -1,0 +1,8 @@
+############
+repositório GIT:
+https://github.com/KassioRF/Classificacao-de-pulsares-Random-Forest
+
+############
+Notebook Colab:
+https://colab.research.google.com/drive/11qn8dBrrWqlRPaJpy2UX9zR-VE7yofB4?usp=sharing
+
